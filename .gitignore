@@ -244,9 +244,5 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-# Bin directory
-bin/
-
 # Packages directory
-
 packages/
