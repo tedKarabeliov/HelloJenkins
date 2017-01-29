@@ -11,7 +11,7 @@
 
         public static string CreateMessage()
         {
-            return "Hello Jenkins";
+            return "Hello Jenkins!";
         }
     }
 }
