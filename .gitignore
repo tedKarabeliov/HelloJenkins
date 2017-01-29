@@ -246,3 +246,6 @@ ModelManifest.xml
 
 # Packages directory
 packages/
+
+# Bin directory
+bin/
